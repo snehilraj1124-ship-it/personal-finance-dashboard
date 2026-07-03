@@ -146,15 +146,6 @@ This project can be used for:
 
 **Snehil Raj**
 
-Frontend Developer | MBA Aspirant
-
----
-
-## ⭐ Repository
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
 
 ## 📄 License
 
